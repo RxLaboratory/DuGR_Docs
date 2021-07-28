@@ -2,4 +2,4 @@
 mkdocs build
 cd ..
 cd docs
-echo duik-docs.rainboxlab.org > "CNAME"
+echo dugr.rxlab.guide > "CNAME"
