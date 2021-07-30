@@ -31,11 +31,10 @@ site_dir: ../docs/
 dev_addr: '127.0.0.1:8001'
 nav:
     - v4.0.0-Beta: index.md
+    - Help: introduction.md
+    - Settings: settings.md
+    - Scripting API: dugr_api.md
     - ...:
-        - Development:
-            - The DuGR API: duik-api.md
-            - The Duduf After Effects Framework: duaef.md
-            - The Duduf ExtendScript Framework: duesf.md
         - Changelog: changelog.md
         - Credits: credits.md
         - Contact: http://contact.rxlab.info
@@ -44,5 +43,6 @@ nav:
         - Tutorials: http://tuts.rxlab.info
         - Donate: http://donate.rxlab.info
         - License:
+            - Introduction: license.md
             - DuGR License: gnu-gpl.md
             - Documentation license: gnu-fdl.md

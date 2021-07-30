@@ -77,36 +77,27 @@
                 
                 
                 
+                    <li >
+                        <a href="introduction.html">Help</a>
+                    </li>
+                
+                
+                
+                    <li >
+                        <a href="settings.html">Settings</a>
+                    </li>
+                
+                
+                
+                    <li >
+                        <a href="dugr_api.html">Scripting API</a>
+                    </li>
+                
+                
+                
                     <li class="dropdown active">
                         <a href="#" class="dropdown-toggle" data-toggle="dropdown">... <b class="caret"></b></a>
                         <ul class="dropdown-menu">
-                        
-                            
-  <li class="dropdown-submenu">
-    <a tabindex="-1" href="">Development</a>
-    <ul class="dropdown-menu">
-        
-            
-<li >
-    <a href="duik-api.md">The DuGR API</a>
-</li>
-
-        
-            
-<li >
-    <a href="duaef.md">The Duduf After Effects Framework</a>
-</li>
-
-        
-            
-<li >
-    <a href="duesf.md">The Duduf ExtendScript Framework</a>
-</li>
-
-        
-    </ul>
-  </li>
-
                         
                             
 <li class="active">
@@ -157,6 +148,12 @@
         
             
 <li >
+    <a href="license.html">Introduction</a>
+</li>
+
+        
+            
+<li >
     <a href="gnu-gpl.html">DuGR License</a>
 </li>
 
@@ -184,7 +181,7 @@
                         </a>
                     </li>
                     <li >
-                        <a rel="prev" href="index.html">
+                        <a rel="prev" href="dugr_api.html">
                             <i class="fas fa-arrow-left"></i> Previous
                         </a>
                     </li>
@@ -216,30 +213,27 @@
         
         
         
+            <li >
+                <a href="introduction.html">Help</a>
+            </li>
+        
+        
+        
+            <li >
+                <a href="settings.html">Settings</a>
+            </li>
+        
+        
+        
+            <li >
+                <a href="dugr_api.html">Scripting API</a>
+            </li>
+        
+        
+        
             <li class="first-level">
                 <button  type="button" class="collapse-button active-collapse-button">...</button>
                 <ul class="collapsible-content collapsible-content-active">
-                    
-                        
-                        <li class="second-level">
-                            <button  type="button" class="collapse-button ">Development</button>
-                            <ul class="collapsible-content ">
-                                
-                                    
-                                    <li class="third-level "><a href="duik-api.md">The DuGR API</a></li>
-                                    
-                                
-                                    
-                                    <li class="third-level "><a href="duaef.md">The Duduf After Effects Framework</a></li>
-                                    
-                                
-                                    
-                                    <li class="third-level "><a href="duesf.md">The Duduf ExtendScript Framework</a></li>
-                                    
-                                
-                            </ul>
-                        </li>
-                        
                     
                         
                         <li class="second-level active"><a href="changelog.html">Changelog</a></li>
@@ -275,6 +269,10 @@
                             <ul class="collapsible-content ">
                                 
                                     
+                                    <li class="third-level "><a href="license.html">Introduction</a></li>
+                                    
+                                
+                                    
                                     <li class="third-level "><a href="gnu-gpl.html">DuGR License</a></li>
                                     
                                 
@@ -294,10 +292,13 @@
     </div>
     <div class="bs-sidebar hidden-print affix well" role="complementary">
         <ul class="nav bs-sidenav">
-            <li class="first-level active"><a href="#duik-noname-changelog">Duik NoName Changelog</a></li>
-                <li class="second-level"><a href="#400-beta">▹ 4.0.0-Beta</a></li>
+            <li class="first-level active"><a href="#dugr-changelog">DuGR Changelog</a></li>
+                <li class="second-level"><a href="#400">▹ 4.0.0</a></li>
                     
                     <li class="third-level"><a href="#new">New</a></li>
+                <li class="second-level"><a href="#400-beta">▹ 4.0.0-Beta</a></li>
+                    
+                    <li class="third-level"><a href="#new_1">New</a></li>
                     <li class="third-level"><a href="#improvements">Improvements</a></li>
                     <li class="third-level"><a href="#fixes">Fixes</a></li>
                     <li class="third-level"><a href="#other-changes">Other changes</a></li>
@@ -307,11 +308,18 @@
 </div></div>
         <div class="col-md-9" role="main">
 
-<h1 id="duik-noname-changelog">Duik NoName Changelog</h1>
+<p><img alt="META" src="license:GNU-FDL;copyright:2021;updated:2021/07/30" /></p>
+<h1 id="dugr-changelog">DuGR Changelog</h1>
 <p>This is the list of what has changed since the previous major version of Dugr (<em>3.02</em>).</p>
+<h2 id="400">▹ 4.0.0</h2>
+<h3 id="new">New</h3>
+<ul>
+<li>Added <strong>Pre-composition</strong> type to the properties list.</li>
+<li>Added <strong>update check</strong> at script startup.</li>
+</ul>
 <h2 id="400-beta">▹ 4.0.0-Beta</h2>
 <p>4.0.0 will be the next major release of <em>DuGR</em> for <em>After Effects</em>, which brings a lot of changes.</p>
-<h3 id="new">New</h3>
+<h3 id="new_1">New</h3>
 <ul>
 <li><strong>New User Interface</strong>: Along with a complete code refactor, <em>DuGR</em> underwent a complete UI redesign. Performance (loading time and isolation) has been improved (<em>a lot</em>), <em>DuGR</em> now fits better in the interface of After Effects, it is more discreet and let you focus on your work.</li>
 <li><em>DuGR</em> now uses <strong>markers</strong> to identify groups on the layers. Note that due to this important change (which improves performance and user experience), it won&rsquo;t be able to detect groups made by previous versions and by older versions of <em>Duik</em>.</li>
@@ -333,7 +341,7 @@
             <div class="nav-footer">
             <ul>
                 <li class="nav-footer-prev">
-                    <a rel="prev" href="index.html">
+                    <a rel="prev" href="dugr_api.html">
                         <i class="fas fa-arrow-left"></i> Previous
                     </a>
                 </li>

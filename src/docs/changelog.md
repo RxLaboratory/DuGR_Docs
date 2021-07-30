@@ -1,6 +1,15 @@
-# Duik NoName Changelog
+![META](license:GNU-FDL;copyright:2021;updated:2021/07/30)
+
+# DuGR Changelog
 
 This is the list of what has changed since the previous major version of Dugr (*3.02*).
+
+## ▹ 4.0.0
+
+### New
+
+- Added **Pre-composition** type to the properties list.
+- Added **update check** at script startup.
 
 ## ▹ 4.0.0-Beta
 

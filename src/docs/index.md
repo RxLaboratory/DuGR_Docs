@@ -2,13 +2,39 @@
 
 # DuGR - Duduf Groups for *After Effects*
 
-**Group and isolate your layers!**
+> **Group and isolate your layers!**
+
+![](img/group_timeline.png)
 
 ▹ You can [**donwload DuGR from rxLaboratory**](http://rxlaboratory.org/tools/dugr).
 
-▹ The [**source code is on Github**](https://github.com/RxLaboratory/DuAEF_DuGR), and the [**API for developpers**](http://dugr.rxlab.io) is [fully documented](http://dugr.rxlab.io).
+▹ The [**source code is on Github**](https://github.com/RxLaboratory/DuAEF_DuGR), and the [**API for developpers**](dugr_api.md) is [fully documented](http://dugr.rxlab.io).
 
-*This documentation is still being written, there's not much to read yet, sorry.*
+____
+
+**[This software is Free](license.md), as in "_free beer_" as well as in "_your freedom_ to use it as you wish".**
+
+We need your help. Without your contributions, we can not continue our work to make the world a better place, by **protecting your freedom, far from mercantilism**.
+
+► [**DONATE NOW!**](http://donate.rxlab.info){: target="_blank" }
+
+____
+
+## Table of Contents
+
+- [***Introduction***](introduction.md): how to use *DuGR*
+- [***Settings***](settings.md): customize *DuGR*
+- [***Scripting API***](dugr_api.md): include *DuGR* features in your own scripts
+- **Miscellaneous**
+    - [*Changelog*](changelog.md)
+    - [*Credits*](credits.md)
+    - [*Contact*](http://contact.rxlab.info)
+    - [*Chat*](http://chat.rxlab.info)
+    - [*Donate*](http://donate.rxlab.info)
+    - **License**
+        - [*Introduction*](license.md)
+        - [*DuGR License*](gnu-gpl.md) (GNU GPL)
+        - [*This documenatation license*](gnu-fdl.md) (GNU FDL)
 
 ## License
 

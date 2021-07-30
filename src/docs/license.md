@@ -1,6 +1,8 @@
 # User Licence
 
-![](img/logos/gplv3.png)
+![](img/licenses/gplv3.png)
+
+____
 
 The Duduf After Effects Framework, which includes Duik, is free software released under the [GNU-General Public License v3](https://github.com/Rainbox-dev/DuAEF_Duik/blob/master/LICENSE). This license guarantees you four freedoms:
 
@@ -8,6 +10,14 @@ The Duduf After Effects Framework, which includes Duik, is free software release
 - The freedom to **study how the program works, and change it**, so it does your computing as you wish,  
 - The freedom to **redistribute copies** so you can help your fellow animator  
 - The freedom to distribute **copies of your modified versions** to others.
+
+____
+
+We need your help. Without your contributions, we can not continue our work to make the world a better place, by **protecting your freedom, far from mercantilism**.
+
+► [**DONATE NOW!**](http://donate.rxlab.info){: target="_blank" }
+
+____
 
 ## What it means for users
 
@@ -34,4 +44,4 @@ More info is available at the [Free Software Foundation](http://www.fsf.org). A 
 
 All the contributors of Duik, friends, and all the people who helped the creation of Duik are listed [here](https://rainboxlab.org/about/who-are-we/). **You may thank all of them for their commitment to greatly improving animation for everyone and for free**.
 
-![](img/logos/fsf-gnu.png)
+![](img/licenses/gnu.png)
