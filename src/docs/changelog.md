@@ -10,6 +10,18 @@ This is the list of what has changed since the previous major version of Dugr (*
 
 - Added **Pre-composition** type to the properties list.
 - Added **update check** at script startup.
+- Added an option to **hide tags (markers)** from the layers.
+- Added **Ch'ti | Picard** translation.
+- Added **French** translation.
+- Added **Spanish** translation.
+
+### Improvements
+
+- Creating/Editing groups user experience has been improved: The field is automatically highlit and [Enter] now validates the new group/edit.
+
+### Fixes
+
+- Creating/Editing group popup no longer fails to show at random.
 
 ## ▹ 4.0.0-Beta
 
