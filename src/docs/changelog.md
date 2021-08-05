@@ -14,6 +14,7 @@ This is the list of what has changed since the previous major version of Dugr (*
 - Added **Ch'ti | Picard** translation.
 - Added **French** translation.
 - Added **Spanish** translation.
+- Added **Exit Isolation** button for non-interactive (sticky) mode.
 
 ### Improvements
 
@@ -22,6 +23,7 @@ This is the list of what has changed since the previous major version of Dugr (*
 ### Fixes
 
 - Creating/Editing group popup no longer fails to show at random.
+- Fixed Isolation button getting out of isolation when the interactive (sticky) mode is disabled.
 
 ## ▹ 4.0.0-Beta
 

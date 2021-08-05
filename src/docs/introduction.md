@@ -27,6 +27,14 @@ The top line buttons are toggles to isolate the layers belonging to the selected
 - ![](img/icons/isolate_tl.svg){: style="width:20px;"} ***Timeline*** isolates the layer only in the timeline. Layers outside of selected groups are set to shy mode.
 - ![](img/icons/isolate_comp.svg){: style="width:20px;"} ***Comp*** isolates the layer only in the comp viewer panel. Layers outside of selected groups are hidden.
 - ![](img/icons/pin.svg){: style="width:20px;"} The *pin* button toggles the ***Interactive*** or ***Sticky*** mode. When checked, the isolation is updated as soon as you change the group selection. When disabled, you have to manually change the isolation mode after changing group selection. With heavy compositions containing a lot of layers, keeping it disabled improves the performance.
+- ![](img/icons/close.svg){: style="width:20px;"} The *exit isolation* button can be used to de-activate the isolation when *not* in *interactive / sticky* mode.
+
+### Interactive / Sticky mode
+
+There are two ways to use *DuGR* to isolate layers:
+
+- In standard mode, when the ![](img/icons/pin.svg){: style="width:12px;"} *pin* button is unchecked, clicking on the ![](img/icons/isolate.svg){: style="width:12px;"}![](img/icons/isolate_tl.svg){: style="width:12px;"}![](img/icons/isolate_comp.svg){: style="width:12px;"} isolation buttons isolates the selected groups; but nothing will change if you change the group selection, unless you click again on the isolation buttons. To exit the isolation mode, either select the "*All layers*" group, or click the ![](img/icons/close.svg){: style="width:12px;"} *exit* button.
+- In interactive / sticky mode, when the ![](img/icons/pinned.svg){: style="width:12px;"} *pin* button is checked, changing the selection of the groups instantly updates the isolation. Click again on the ![](img/icons/isolate.svg){: style="width:12px;"}![](img/icons/isolate_tl.svg){: style="width:12px;"}![](img/icons/isolate_comp.svg){: style="width:12px;"} isolation buttons to exist the isolation mode.
 
 ## Layer properties
 

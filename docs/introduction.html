@@ -72,7 +72,7 @@
                 
                 
                     <li >
-                        <a href="index.html">v4.0.0-Beta</a>
+                        <a href="index.html">v4.0.0</a>
                     </li>
                 
                 
@@ -208,7 +208,7 @@
         
         
             <li >
-                <a href="index.html">v4.0.0-Beta</a>
+                <a href="index.html">v4.0.0</a>
             </li>
         
         
@@ -297,6 +297,7 @@
                     
                 <li class="second-level"><a href="#isolation">Isolation</a></li>
                     
+                    <li class="third-level"><a href="#interactive-sticky-mode">Interactive / Sticky mode</a></li>
                 <li class="second-level"><a href="#layer-properties">Layer properties</a></li>
                     
                 <li class="second-level"><a href="#managing-groups">Managing groups</a></li>
@@ -330,6 +331,13 @@
 <li><img alt="" src="img/icons/isolate_tl.svg" style="width:20px;" /> <strong><em>Timeline</em></strong> isolates the layer only in the timeline. Layers outside of selected groups are set to shy mode.</li>
 <li><img alt="" src="img/icons/isolate_comp.svg" style="width:20px;" /> <strong><em>Comp</em></strong> isolates the layer only in the comp viewer panel. Layers outside of selected groups are hidden.</li>
 <li><img alt="" src="img/icons/pin.svg" style="width:20px;" /> The <em>pin</em> button toggles the <strong><em>Interactive</em></strong> or <strong><em>Sticky</em></strong> mode. When checked, the isolation is updated as soon as you change the group selection. When disabled, you have to manually change the isolation mode after changing group selection. With heavy compositions containing a lot of layers, keeping it disabled improves the performance.</li>
+<li><img alt="" src="img/icons/close.svg" style="width:20px;" /> The <em>exit isolation</em> button can be used to de-activate the isolation when <em>not</em> in <em>interactive / sticky</em> mode.</li>
+</ul>
+<h3 id="interactive-sticky-mode">Interactive / Sticky mode</h3>
+<p>There are two ways to use <em>DuGR</em> to isolate layers:</p>
+<ul>
+<li>In standard mode, when the <img alt="" src="img/icons/pin.svg" style="width:12px;" /> <em>pin</em> button is unchecked, clicking on the <img alt="" src="img/icons/isolate.svg" style="width:12px;" /><img alt="" src="img/icons/isolate_tl.svg" style="width:12px;" /><img alt="" src="img/icons/isolate_comp.svg" style="width:12px;" /> isolation buttons isolates the selected groups; but nothing will change if you change the group selection, unless you click again on the isolation buttons. To exit the isolation mode, either select the &ldquo;<em>All layers</em>&rdquo; group, or click the <img alt="" src="img/icons/close.svg" style="width:12px;" /> <em>exit</em> button.</li>
+<li>In interactive / sticky mode, when the <img alt="" src="img/icons/pinned.svg" style="width:12px;" /> <em>pin</em> button is checked, changing the selection of the groups instantly updates the isolation. Click again on the <img alt="" src="img/icons/isolate.svg" style="width:12px;" /><img alt="" src="img/icons/isolate_tl.svg" style="width:12px;" /><img alt="" src="img/icons/isolate_comp.svg" style="width:12px;" /> isolation buttons to exist the isolation mode.</li>
 </ul>
 <h2 id="layer-properties">Layer properties</h2>
 <p>The two middle lines of small icons can be used to quickly change the usual properties of the layers contained in the selected groups.</p>

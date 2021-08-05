@@ -6,10 +6,6 @@
 
 ![](img/group_timeline.png)
 
-▹ You can [**donwload DuGR from rxLaboratory**](http://rxlaboratory.org/tools/dugr).
-
-▹ The [**source code is on Github**](https://github.com/RxLaboratory/DuAEF_DuGR), and the [**API for developpers**](dugr_api.md) is [fully documented](http://dugr.rxlab.io).
-
 ____
 
 **[This software is Free](license.md), as in "_free beer_" as well as in "_your freedom_ to use it as you wish".**
@@ -19,6 +15,10 @@ We need your help. Without your contributions, we can not continue our work to m
 ► [**DONATE NOW!**](http://donate.rxlab.info){: target="_blank" }
 
 ____
+
+▹ You can [**donwload DuGR from rxLaboratory**](http://rxlaboratory.org/tools/dugr).
+
+▹ The [**source code is on Github**](https://github.com/RxLaboratory/DuAEF_DuGR), and the [**API for developpers**](dugr_api.md) is [fully documented](http://dugr.rxlab.io).
 
 ## Table of Contents
 

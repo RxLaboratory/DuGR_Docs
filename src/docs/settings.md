@@ -31,6 +31,9 @@ The second part of the panel contains *DuGR* specific settings.
 - You can choose how layers must be hidden:
     - ![](img/icons/wireframe.svg){: style="width:20px;"} ***Wireframe*** will replace layers by a bounding box and a cross.
     - ![](img/icons/hide.svg){: style="width:20px;"} Or you can just ***hide*** them.
+- You can hide or show the markers (tags) from the layer:
+    - ![](img/icons/tag.svg){: style="width:20px;"} ***Show tags***.
+    - ![](img/icons/no_tag.svg){: style="width:20px;"} ***Hide tags***.
 - You can choose to either automatically lock the layers which are hidden, or leave them as they are.
 
 ## Other
