@@ -4,6 +4,16 @@
 
 This is the list of what has changed since the previous major version of Dugr (*3.02*).
 
+## ▹ 4.0.1
+
+### Improvements
+
+- UI tweaks.
+
+### Fixes
+
+- Fixed ask for file and network access if needed.
+
 ## ▹ 4.0.0
 
 ### New
