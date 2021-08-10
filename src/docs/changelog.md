@@ -9,11 +9,13 @@ This is the list of what has changed since the previous major version of Dugr (*
 ### Improvements
 
 - UI tweaks.
+- Updated Esperanto translation.
 
 ### Fixes
 
 - Fixed ask for file and network access if needed.
 - When a layer is moved to the left in the timeline, markers are brought back in the timeline if they're not set to be hidden.
+- Colors of the UI are now correctly adjusted according to the brightness setting of the UI of After Effects.
 
 ## ▹ 4.0.0
 
