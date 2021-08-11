@@ -31,6 +31,7 @@ site_dir: ../docs/
 dev_addr: '127.0.0.1:8001'
 nav:
     - v4.0.1: index.md
+    - Install: install.md
     - Help: introduction.md
     - Settings: settings.md
     - Scripting API: dugr_api.md
