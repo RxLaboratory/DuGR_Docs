@@ -4,6 +4,20 @@
 
 This is the list of what has changed since the previous major version of Dugr (*3.02*).
 
+## ▹ 4.0.2
+
+### New
+
+- Chinese translation.
+
+### Improvements
+
+- UI tweaks.
+
+### Fixes
+
+- Fixed the "All layers" entry not working.
+
 ## ▹ 4.0.1
 
 ### New
