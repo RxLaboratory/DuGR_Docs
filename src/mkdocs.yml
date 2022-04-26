@@ -1,10 +1,10 @@
 site_name: DuGR
 site_url: http://dugr.rxlab.guide
-repo_url: https://github.com/RxLaboratory/DuAEF_DuGR_Docs/
+repo_url: https://github.com/RxLaboratory/DuGR_Docs/
 edit_uri: tree/master/src/docs/
 site_description: The DuGR comprehensive documentation
 site_author: Nicolas Dufresne and contributors
-copyright: 'Copyright © 2021 <a href="https://rxlaboratory.org" target="_blank">Rainbox Laboratory</a> and <a href="http://duduf.com" target="_blank">Nicolas Dufresne</a>'
+copyright: 'Copyright © 2021-2022 <a href="https://rxlaboratory.org" target="_blank">Rainbox Laboratory</a> and <a href="http://duduf.com" target="_blank">Nicolas Dufresne</a>'
 use_directory_urls: false
 theme:
     name: null
@@ -30,7 +30,7 @@ extra_javascript:
 site_dir: ../docs/
 dev_addr: '127.0.0.1:8001'
 nav:
-    - v4.0.2: index.md
+    - v4.0.3: index.md
     - Install: install.md
     - Help: introduction.md
     - Settings: settings.md
