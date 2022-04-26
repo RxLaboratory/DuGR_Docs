@@ -4,6 +4,17 @@
 
 This is the list of what has changed since the previous major version of Dugr (*3.02*).
 
+## ▹ 4.0.3
+
+### Improvements
+
+- UI tweaks.
+
+### Fixes
+
+- Track Mattes are no longer shown/hidden with the show button.
+- The "apply" button in the settings should now work correctly.
+
 ## ▹ 4.0.2
 
 ### New
