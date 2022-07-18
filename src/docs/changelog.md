@@ -4,6 +4,11 @@
 
 This is the list of what has changed since the previous major version of Dugr (*3.02*).
 
+## ▹ 4.0.4
+
+- Added ***Russian*** and ***German*** Translations.
+- Fixed some issues with the settings.
+
 ## ▹ 4.0.3
 
 ### Improvements
